@@ -20,6 +20,8 @@ exclude:
   - "*.pdf"
   - Gemfile.lock
   - README.md
+  - vendor
+  - node_modules
 
 # Include the converted directory
 include:
