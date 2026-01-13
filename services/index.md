@@ -37,7 +37,7 @@ What we provide: wedding packages, event packages, catering menus, and add-ons.
 | Menu | Description |
 |------|-------------|
 | [Wedding Catering Menu](catering/catering-menu) | Full menu with entrees, buffet, desserts, beverages |
-| [Off-Premise Catering Menu](catering/off-premise-menu.html) | Corporate and off-site catering |
+| [Off-Premise Catering Menu](https://silver-sycamore-catering.square.site/) | Corporate and off-site catering (Square) |
 
 ---
 
