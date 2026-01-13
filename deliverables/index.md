@@ -15,10 +15,3 @@ Projects built during this engagement.
 |---------|--------|------|
 | [Pine Street Cafe Recipe App](recipe-app/) | Live (Piloting) | [pine-street-cafe-recipes.vercel.app](https://pine-street-cafe-recipes.vercel.app) |
 
----
-
-## About
-
-Documentation captured during January 2026 consulting engagement.
-
-**For Questions:** Contact Derek Yellin or Uncle Michael

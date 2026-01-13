@@ -244,4 +244,3 @@ Documentation captured during January 2026 consulting engagement. Sources:
 - Vendor contact lists and credentials (stored in Convex `logins` table)
 - Recipe database (278 recipes in [Recipe App](https://pine-street-cafe-recipes.vercel.app))
 
-**For Questions:** Contact Derek Yellin or Uncle Michael

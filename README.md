@@ -102,8 +102,6 @@ Documentation captured during January 2026 consulting engagement.
 - Vendor credentials (stored in Convex database)
 - Recipe database (278 recipes in Recipe App)
 
-**Questions:** Contact Derek Yellin or Uncle Michael
-
 ---
 
 **Last Updated:** January 12, 2026
