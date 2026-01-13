@@ -21,13 +21,6 @@ Operational documentation for Silver Sycamore Venue and Pine Street Cafe.
 | Recipe App | Live (Piloting) | Gather feedback |
 | Employee Handbook | Planned | Review training docs |
 
-### On the Table
-
-- Staff training video library
-- Client-facing wedding planning portal
-- Inventory management system integration
-- Event day coordination app
-
 ---
 
 ## Browse Documents
